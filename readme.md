@@ -25,7 +25,7 @@
 
 <div align="center">
 	<h2>CC01</h2>
-	<h3><a href="##" target="_blank">Born2beroot 🖥️</a></h3>
+	<h3>Born2beroot 🖥️</h3>
 	<h3><a href="https://github.com/Gokiina/Cursus/tree/main/CC01_ft_printf" target="_blank">ft_printf 🖨️</a></h3>
 	<h3><a href="https://github.com/Gokiina/Cursus/tree/main/CC01_Get_Next_Line" target="_blank">get_next_line 〰️</a></h3>
 </div>
