@@ -1,0 +1,1 @@
+<div> <h2><a href=“https://github.com/Gokiina/Cursus/tree/main/CC02_Push_swap” target=“_blank”>push_swap 🌱</a></h2> <p>El proyecto push_swap tiene como objetivo reordenar una pila de números en orden ascendente.</p> <ul> <li>Utiliza solo las instrucciones definidas</li> <li>Minimiza el número de movimientos necesarios para lograr el ordenamiento</li> </ul> </div>
